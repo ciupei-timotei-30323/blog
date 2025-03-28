@@ -1,0 +1,4 @@
+[submodule "timociupei/public"]
+	path = timociupei/public
+	url = https://github.com/ciupei-timotei-30323/timociupei.github.io.git
+	branch = main
