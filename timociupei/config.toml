@@ -1,8 +1,14 @@
-baseURL = 'https://Gandalf789.github.io/'
+baseURL = 'https://ciupei-timotei-30323.github.io/timociupei.github.io/'
 languageCode = 'en-us'
 title = 'Timo Blog'
 theme="not-much"
 
+
+
+[params]
+theme = "dark"
+palette = "catpuccin"
+showPostsSummary = true
 
 
 # Navigation
