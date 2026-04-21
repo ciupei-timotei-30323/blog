@@ -97,4 +97,6 @@ The following is the sequence diagram of the process of generating the user's re
 
 - The code can be found on [my github](https://github.com/ciupei-timotei-30323/php)
 
+---
+*T.*
 

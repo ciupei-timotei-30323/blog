@@ -14,15 +14,17 @@ My name is **Ciupei Timotei** and I am a  III year student at [TUCN Automatics D
 
 * **Location:** Cluj-Napoca, Cluj
 * **Current Role:** Student
-* **Tech Stack:** Linux, Git, C 
-* **Learning:** Java, Machine Learning
+* **Tech Stack:** Linux, Git, C, C#, Java 
+* **Learning:** Machine Learning, Web
 
 ### What I'm working on
 
-Currently, I am focused on project involving **Modelling Thermal Comfort** using the ASHRAE Global Thermal Comfort Database II.
+- Currently, I am working on a teamp project as a backend developer. Me and my team are trying to build a patient management system to be used by doctors through the use of NFC cards. 
 
 When I'm not coding/writing, I am usually **listening to music** or **reading**.
 
 ### Contact
 
 * [Email](mailto:ciupei.ma.timotei@student.utcluj.ro)
+
+---

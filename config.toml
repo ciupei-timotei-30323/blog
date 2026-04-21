@@ -31,11 +31,18 @@ showPostsSummary = true
     weight = 4
 
     [[menu.main]]
-    identifier = "instagram"
-    name = "instagram"
-    title = "instagram"
-    url = "https://www.instagram.com/timo.ciupei/"
+    identifier = "linkedin"
+    name = "linkedin"
+    title = "linkedin"
+    url = "https://ro.linkedin.com/in/timotei-ciupei-16aa55342"
     weight = 5
+
+    [[menu.main]]
+    identifier = "resume"
+    name = "resume"
+    title = "resume"
+    url = "https://www.dropbox.com/scl/fi/v8ojc8nq0mbjcv7flugks/Timotei_Ciupei_cv-2.pdf?rlkey=nv4nvaac2jd2ki0s13qrzbw4p&dl=0"
+    weight = 6
 
 
    [[menu.main]]

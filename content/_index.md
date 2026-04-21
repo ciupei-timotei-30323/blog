@@ -4,7 +4,7 @@ lead: "Welcome!"
 
 I'm a **Computer Science** student at 
 **Technical University of Cluj-Napoca (TUCN)**
-, at the Automatics department (2nd year).
+, at the Automatics department (3rd year).
 
 
 
@@ -12,7 +12,6 @@ I'm a **Computer Science** student at
 - Learning Java
 - MATLAB
 - Embedded 
-- Expanding my knowledge of C and C#
 
 ##### On this blog you can find:
 - Documentation for my projects
@@ -24,7 +23,9 @@ I'm a **Computer Science** student at
 - Playing football and tennis
 - Travelling
 
-You can find my [**github**](https://github.com/ciupei-timotei-30323/) account or my [**instagram**](https://www.instagram.com/timo.ciupei/) account in the menu bar.
+You can find my [**github**](https://github.com/ciupei-timotei-30323/) account or my [**linkedin**](https://ro.linkedin.com/in/timotei-ciupei-16aa55342) account in the menu bar.
+
+Also on the menu bar you can find my *updated* [**Resume / CV**](https://www.dropbox.com/scl/fi/v8ojc8nq0mbjcv7flugks/Timotei_Ciupei_cv-2.pdf?rlkey=nv4nvaac2jd2ki0s13qrzbw4p&dl=0)
 
 ---
 *T.*
